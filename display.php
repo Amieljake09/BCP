@@ -302,6 +302,7 @@ closeBtns.forEach(function(btn) {
 }
 
 /* Close button style */
+
 .close {
     color: red;
     float: right;

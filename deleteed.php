@@ -311,6 +311,7 @@ closeBtns.forEach(function(btn) {
     transition: color 0.3s ease;
 }
 
+
 .close:hover,
 .close:focus {
     color: white;
